@@ -66,7 +66,7 @@ def track_and_count(detections, frame_width):
 
 
 # Inicializar captura de vídeo
-video_path = "bus2.mp4"
+video_path = "bus3.mp4"
 cap = cv2.VideoCapture(video_path)
 
 while cap.isOpened():
